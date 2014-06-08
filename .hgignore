@@ -1,0 +1,8 @@
+syntax: glob
+obj/*
+.DS_Store
+bin/*
+assets/sonic.png
+gen/*
+libs/*
+local.properties
