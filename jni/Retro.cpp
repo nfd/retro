@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <assert.h>
-#include <JNI.h>
+#include <jni.h>
 
 #include "Starfield.hpp"
 #include "Copper.hpp"
